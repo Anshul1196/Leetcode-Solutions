@@ -7,3 +7,4 @@
 |2|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](/shuffleArray.py)|Easy| [52 ms](https://leetcode.com/submissions/detail/412202178/) | 14.4 MB
 |3|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Python](/targetArray.py)|Easy| [36 ms](https://leetcode.com/submissions/detail/412218034/) | 14.1 MB
 |4|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python](/xorOperationInArray.py)|Easy| [28 ms](https://leetcode.com/submissions/detail/412218034/) | 14 MB
+|5|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](/sumOfSubArrays.py)|Easy| [156 ms](https://leetcode.com/submissions/detail/412218034/) | 14.1 MB
