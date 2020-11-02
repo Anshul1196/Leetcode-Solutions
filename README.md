@@ -8,3 +8,4 @@
 |3|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Python](/targetArray.py)|Easy| [36 ms](https://leetcode.com/submissions/detail/412218034/) | 14.1 MB
 |4|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python](/xorOperationInArray.py)|Easy| [28 ms](https://leetcode.com/submissions/detail/412218034/) | 14 MB
 |5|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](/sumOddLengthSubarrays.py)|Easy| [156 ms](https://leetcode.com/submissions/detail/412218034/) | 14.1 MB
+|6|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](/sumOddLengthSubarrays.py)|Easy| [60 ms](https://leetcode.com/submissions/detail/412218034/) | 14.3 MB
