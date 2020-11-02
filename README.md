@@ -13,3 +13,4 @@
 |8|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](/shuffleString.py)|Easy| [60 ms](https://leetcode.com/submissions/detail/415911749/) | 14.1 MB
 |9|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](/productAndSum.py)|Easy| [16 ms](https://leetcode.com/submissions/detail/415917207/) | 14.2 MB
 |10|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Python](/max69Number.py)|Easy| [24 ms](https://leetcode.com/submissions/detail/415933463/) | 14.2 MB
+|11|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](/replaceElementsGreaterOnRightSide.py)|Easy| [4600 ms](https://leetcode.com/submissions/detail/415938973/) | 14.2 MB
