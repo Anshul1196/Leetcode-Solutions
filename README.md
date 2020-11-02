@@ -12,3 +12,4 @@
 |7|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](/numbersSmallerThanCurrent.py)|Easy| [568 ms](https://leetcode.com/submissions/detail/415893909/) | 14.5 MB
 |8|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](/shuffleString.py)|Easy| [60 ms](https://leetcode.com/submissions/detail/415911749/) | 14.1 MB
 |9|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](/productAndSum.py)|Easy| [16 ms](https://leetcode.com/submissions/detail/415917207/) | 14.2 MB
+|10|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Python](/max69Number.py)|Easy| [24 ms](https://leetcode.com/submissions/detail/415933463/) | 14.2 MB
