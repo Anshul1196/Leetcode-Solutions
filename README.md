@@ -11,3 +11,4 @@
 |6|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](/findNumbersWithEvenNumbersOfDigits.py)|Easy| [60 ms](https://leetcode.com/submissions/detail/415872997/) | 14.3 MB
 |7|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](/numbersSmallerThanCurrent.py)|Easy| [568 ms](https://leetcode.com/submissions/detail/415893909/) | 14.5 MB
 |8|[Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Python](/shuffleString.py)|Easy| [60 ms](https://leetcode.com/submissions/detail/415911749/) | 14.1 MB
+|9|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](/productAndSum.py)|Easy| [16 ms](https://leetcode.com/submissions/detail/415917207/) | 14.2 MB
