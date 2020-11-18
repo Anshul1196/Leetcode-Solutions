@@ -15,5 +15,8 @@
 |10|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Python](/max69Number.py)|Easy| [24 ms](https://leetcode.com/submissions/detail/415933463/) | 14.2 MB
 |11|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](/replaceElementsGreaterOnRightSide.py)|Easy| [4600 ms](https://leetcode.com/submissions/detail/415938973/) | 14.2 MB
 |12|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](/reverseString.py)|Easy| [192 ms](https://leetcode.com/submissions/detail/415939698/) | 18.5 MB
-|12|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/reverse-string/) | [Python](/distanceBetweenArrays.py)|Easy| [120 ms](https://leetcode.com/submissions/detail/416278923/) | 14.2 MB
-
+|13|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python](/distanceBetweenArrays.py)|Easy| [120 ms](https://leetcode.com/submissions/detail/416278923/) | 14.2 MB
+|14|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](/kidsWithgreatestCandies.py)|Easy| [20 ms](https://leetcode.com/submissions/detail/416286398/) | 14.1 MB
+|15|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](/splitStringInBalanced.py)|Easy| [32 ms](https://leetcode.com/submissions/detail/416661867/) | 14.2 MB
+|16|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](/decompressEncodedList.py)|Easy| [68 ms](https://leetcode.com/submissions/detail/416687791/) | 14.4 MB
+|17|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python](/matrixDiagonalSum.py)|Easy| [96 ms](https://leetcode.com/submissions/detail/416687791/) | 14.3 MB
